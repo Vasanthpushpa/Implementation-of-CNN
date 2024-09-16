@@ -87,7 +87,7 @@ class EarlyStoppingCallback(tf.keras.callbacks.Callback):
             self.model.stop_training = True
 
             print("\n\nReached 99.5% accuracy so cancelling training!\n")
-            print('Name: R Guruprasad  Register Number: 212222240033\n')
+            print('Name: Vasanth P  Register Number: 212222240113\n')
 
 #convolutional_model
 
